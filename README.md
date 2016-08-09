@@ -12,7 +12,7 @@ Paketimizi indirdikten sonra GCC sürümünü öğrenmek için aşağıdaki komu
  
         C kodlarımız herhangi bir text editöründe yazdıktan sonra örnek olması açısından ilk.c olarak kaydediyoruz.
         
-Daha sonra derlemek için aşağıdaki komutla derleyebiliriz.
+ Daha sonra derlemek için aşağıdaki komutla derleyebiliriz.
 
 **gcc -o ilk.c**         
  
