@@ -1,4 +1,4 @@
-##### TutturWork4-C_kod
+##### TutturWork4-Shell_Ckod
 ###SHELL'DE C PROGRAMLAMA
 **GCC(GNU COMPİLER COLLECTİON)** 
     
