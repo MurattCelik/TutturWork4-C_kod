@@ -30,4 +30,4 @@ Uygulamamızı yazarken bazı kütüphaneler mevcut ancak uyugulamamızı oluşt
         
 Kütüphanelere ulaşabilmek için kütüphaneleri içeren dizine gitmemiz gerekiyor bu dizin genellikle /usr/include/ dizininde oluyor.
 
-Eğer bizim istediğimiz kütüphane yoksa bunu indirip oluşturmalıyız ve daha sonra bu kütühaneyi rahatça kullanabiliriz.
+Eğer bizim istediğimiz kütüphane yoksa bunu indirip oluşturmalıyız ve daha sonra bu kütüphaneyi rahatça kullanabiliriz.
