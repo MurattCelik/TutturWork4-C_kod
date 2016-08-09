@@ -21,8 +21,8 @@ Daha sonra derlemek için aşağıdaki komutla derleyebiliriz.
 Ancak derleme yaparken uygulamamıza herhhabgi bir ad vermedik o yüzden otomatikmen öntanımlı olarak a.out dosyasını oluşturur.
         
 Uygulamamızı derlerken kendi ismiyle derleyebilmemiz için -o seçeneği kullanılır.-o seçeneği parametre olarak dosya çıkış adını alır.
-
-Kendi istediğimiz isimle derlemek için aşağıdaki komutla derleyebilirizi
+ 
+Dosyayı kaydederken ki isimle derlemek için aşağıdaki komutla derleyebiliriz.
 
 **gcc ilk.c -o ilk**          
  
