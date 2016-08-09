@@ -1,8 +1,8 @@
 ##### TutturWork4-C_KOD
 ###SHELL'DE C PROGRAMLAMA
-    **GCC(GNU COMPİLER COLLECTİON)** 
+**GCC(GNU COMPİLER COLLECTİON)** 
     
-Gerçek ismini GNU C Compiler kelimelerinden almaktadır.Kısaca GCC C derleyicisi için oluşturulmuş bir pakettir.
+     Gerçek ismini GNU C Compiler kelimelerinden almaktadır.Kısaca GCC C derleyicisi için oluşturulmuş bir pakettir.
 
 Unix işletim sistemlerinde C programlama yapmak istediğimizde Shell'de GCC yoksa C'yi derleyebilmek için bu paket indirilmelidir.
 
